@@ -1,2 +1,2 @@
-# ftplibdotnet
+# FtpLibDotNet
 FTP client library
